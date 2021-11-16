@@ -1,0 +1,19 @@
+[
+	{
+		"region_id": "cn-hongkong",
+		"zone_ids": [
+			{
+				"vpc_enabled": true,
+				"zone_id": "cn-hongkong-a"
+			},
+			{
+				"vpc_enabled": true,
+				"zone_id": "cn-hongkong-b"
+			},
+			{
+				"vpc_enabled": true,
+				"zone_id": "cn-hongkong-c"
+			}
+		]
+	}
+]
